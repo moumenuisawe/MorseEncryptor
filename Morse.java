@@ -29,7 +29,7 @@ public class Morse {
                 .replace("V", "+---/").replace("v", "+---/")
                 .replace("W", "++-/").replace("w", "++-/")
                 .replace("X", "+--+/").replace("x", "+--+/")
-                .replace("Y", "++-+/").replace("y", "--++/")
+                .replace("Y", "++-+/").replace("y", "++-+/")
                 .replace("Z", "--++/").replace("z", "--++/")
                 .replace("1", "++++-/")
                 .replace("2", "+++--/")
